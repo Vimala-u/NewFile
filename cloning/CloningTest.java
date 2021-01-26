@@ -28,9 +28,7 @@ public class CloningTest {
 		System.out.println("showing e2");
 		System.out.println(e2);
 
-		System.out.println("git hub");
-		System.out.println("showing e");
-		System.out.println("showing e78");
+		
 	}
 
 }
